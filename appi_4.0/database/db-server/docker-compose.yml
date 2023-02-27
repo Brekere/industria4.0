@@ -1,0 +1,31 @@
+version: '3.2'
+services:  
+  db:
+    image: mysql
+    container_name: mysqlInd4.0
+    restart: always
+    volumes:
+      - type: bind
+        source: ./database
+        target: /var/lib/mysql
+        # modificar la ruta en el servidor ... 
+      - "./db:/docker-entrypoint-initdb.d"
+#      - "/home/arturo/Documentos/Proyectos/happinss/database:/var/lib/mysql"
+    environment:
+      MYSQL_ROOT_PASSWORD: Ind4.0.#L
+      MYSQL_USER: Mario
+      MYSQL_PASSWORD: M@rioPerez26
+      MYSQL_DATABASE: industry4
+    ports:
+      - "5051:3306"
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: phpmyadminInd4.0
+    restart: always
+    environment:
+      PMA_HOST: db
+      PMA_USER: root
+      PMA_PASSWORD: Ind4.0.#L
+      UPLOAD_LIMIT: 20M
+    ports:
+      - "5056:80"

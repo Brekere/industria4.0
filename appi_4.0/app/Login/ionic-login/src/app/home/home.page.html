@@ -1,0 +1,57 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>login</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content style="color: black;">
+
+<ion-list>
+    <form>
+      <ion-item>
+        <ion-label floating>Email</ion-label>
+        <ion-input
+          [(ngModel)]="user.email"
+          name="email"
+          type="text"
+          autocapitalize="off"
+          required
+        >
+        </ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label floating>Contraseña</ion-label>
+        <ion-input
+          [(ngModel)]="user.password"
+          name="password"
+          type="password"
+          required
+        >
+        </ion-input>
+      </ion-item>
+      <div padding>
+        <button
+            ion-button 
+            type="submit"
+            color="primary"
+            block
+        >
+          Login
+        </button>
+
+        <button
+          ion-button 
+          
+          type="submit"
+          color="secondary"
+          block
+        >
+          Dar de alta
+        </button>
+      </div>
+    </form>
+  </ion-list>
+</ion-content>

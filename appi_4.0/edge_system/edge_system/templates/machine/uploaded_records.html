@@ -1,0 +1,34 @@
+{% extends 'layout/base_plots.html' %}
+
+{% block content %}
+
+{% include 'fragment/_sidebar_start.html' %}
+
+
+<div class="jumbotron text-center">
+    <h2>{{result['title']}}</h2>
+    <p>Total of records uploaded</p>
+    {{result['total_records']}}
+    <p>Date</p>
+    {{result['date']}}
+    <table>
+        <thead>
+            <tr>
+                <th>Start</th>
+                <th>End</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>{{result['start']}}</th>
+                <th>{{result['end']}}</th>
+            </tr>
+        </tbody>
+        
+    </table>
+</div>
+
+
+{% include 'fragment/_sidebar_end.html' %}
+
+{% endblock %}

@@ -1,0 +1,688 @@
+INFO:root:
+	 Starting (or re-starting) app at 20/08/2021 20:03:25
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48254))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':713, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 713, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 52 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:11 
+		 ok: True 
+		 Time 713 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48256))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1542, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1542, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 53 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:18 
+		 ok: True 
+		 Time 1542 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48258))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2567, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2567, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 54 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:19 
+		 ok: True 
+		 Time 2567 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48260))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':157}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 157}
+INFO:root:
+	Save in db:::  --> id Part 55 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:20 
+		 ok: False 
+		 Time 157 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48262))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1457, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1457, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 56 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:21 
+		 ok: True 
+		 Time 1457 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48268))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2422}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2422}
+INFO:root:
+	Save in db:::  --> id Part 57 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:22 
+		 ok: False 
+		 Time 2422 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48270))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2356, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2356, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 58 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:23 
+		 ok: True 
+		 Time 2356 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48272))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2508, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2508, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 59 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:24 
+		 ok: True 
+		 Time 2508 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48274))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2807}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2807}
+INFO:root:
+	Save in db:::  --> id Part 60 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:24 
+		 ok: False 
+		 Time 2807 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48276))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':619}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 619}
+INFO:root:
+	Save in db:::  --> id Part 61 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:25 
+		 ok: False 
+		 Time 619 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48278))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2648, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2648, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 62 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:26 
+		 ok: True 
+		 Time 2648 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48280))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1786, 'rework':1, 'rework_status':0, 'reworking_time':1598}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1786, 'rework': 1, 'rework_status': 0, 'reworking_time': 1598}
+INFO:root:
+	Save in db:::  --> id Part 63 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:04:27 
+		 ok: True 
+		 Time 1786 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 63> 
+		 ok: False 
+		 Time 1598 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 20/08/2021 20:07:50
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48348))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1317}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1317}
+INFO:root:
+	Save in db:::  --> id Part 64 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:08:04 
+		 ok: False 
+		 Time 1317 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 Starting (or re-starting) app at 20/08/2021 20:08:33
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48364))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1511}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1511}
+INFO:root:
+	Save in db:::  --> id Part 65 <id Machine: 0> 
+		 timestamp: 2021-08-20 20:08:37 
+		 ok: False 
+		 Time 1511 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 API stoped at 2021/08/20 20:08:48
+INFO:root:
+	 Starting (or re-starting) app at 01/12/2021 00:13:20
+INFO:root:
+	Socket::  --> starting up on 0.0.0.0 port 10000
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48018))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2611}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2611}
+INFO:root:
+	Save in db:::  --> id Part 66 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:25 
+		 ok: False 
+		 Time 2611 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48076))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1778, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1778, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 67 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:32 
+		 ok: True 
+		 Time 1778 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48086))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':500}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 500}
+INFO:root:
+	Save in db:::  --> id Part 68 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:32 
+		 ok: False 
+		 Time 500 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48096))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2981}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2981}
+INFO:root:
+	Save in db:::  --> id Part 69 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:33 
+		 ok: False 
+		 Time 2981 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48098))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':701}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 701}
+INFO:root:
+	Save in db:::  --> id Part 70 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:34 
+		 ok: False 
+		 Time 701 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48108))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1549}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1549}
+INFO:root:
+	Save in db:::  --> id Part 71 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:34 
+		 ok: False 
+		 Time 1549 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48358))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1309, 'rework':1, 'rework_status':1, 'reworking_time':1964}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1309, 'rework': 1, 'rework_status': 1, 'reworking_time': 1964}
+INFO:root:
+	Save in db:::  --> id Part 72 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:52 
+		 ok: True 
+		 Time 1309 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 72> 
+		 ok: True 
+		 Time 1964 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48368))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2700}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2700}
+INFO:root:
+	Save in db:::  --> id Part 73 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:53 
+		 ok: False 
+		 Time 2700 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48378))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1628}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1628}
+INFO:root:
+	Save in db:::  --> id Part 74 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:54 
+		 ok: False 
+		 Time 1628 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48392))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2593}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2593}
+INFO:root:
+	Save in db:::  --> id Part 75 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:55 
+		 ok: False 
+		 Time 2593 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48394))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':473}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 473}
+INFO:root:
+	Save in db:::  --> id Part 76 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:56 
+		 ok: False 
+		 Time 473 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48404))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1167, 'rework':1, 'rework_status':1, 'reworking_time':596}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1167, 'rework': 1, 'rework_status': 1, 'reworking_time': 596}
+INFO:root:
+	Save in db:::  --> id Part 77 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:56 
+		 ok: True 
+		 Time 1167 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 77> 
+		 ok: True 
+		 Time 596 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48414))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':914, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 914, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 78 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:57 
+		 ok: True 
+		 Time 914 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48424))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1332}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1332}
+INFO:root:
+	Save in db:::  --> id Part 79 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:58 
+		 ok: False 
+		 Time 1332 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48426))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2991, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2991, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 80 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:13:59 
+		 ok: True 
+		 Time 2991 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48436))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':515, 'rework':1, 'rework_status':0, 'reworking_time':2549}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 515, 'rework': 1, 'rework_status': 0, 'reworking_time': 2549}
+INFO:root:
+	Save in db:::  --> id Part 81 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:00 
+		 ok: True 
+		 Time 515 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 81> 
+		 ok: False 
+		 Time 2549 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48450))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2568}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2568}
+INFO:root:
+	Save in db:::  --> id Part 82 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:00 
+		 ok: False 
+		 Time 2568 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48460))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2341}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2341}
+INFO:root:
+	Save in db:::  --> id Part 83 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:01 
+		 ok: False 
+		 Time 2341 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48470))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1700, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1700, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 84 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:02 
+		 ok: True 
+		 Time 1700 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48472))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2750, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2750, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 85 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:03 
+		 ok: True 
+		 Time 2750 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48482))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':817, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 817, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 86 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:03 
+		 ok: True 
+		 Time 817 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48484))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2423, 'rework':1, 'rework_status':0, 'reworking_time':2500}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2423, 'rework': 1, 'rework_status': 0, 'reworking_time': 2500}
+INFO:root:
+	Save in db:::  --> id Part 87 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:04 
+		 ok: True 
+		 Time 2423 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 87> 
+		 ok: False 
+		 Time 2500 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48498))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':902, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 902, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 88 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:05 
+		 ok: True 
+		 Time 902 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48508))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2910, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2910, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 89 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:06 
+		 ok: True 
+		 Time 2910 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48526))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':498}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 498}
+INFO:root:
+	Save in db:::  --> id Part 90 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:08 
+		 ok: False 
+		 Time 498 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48536))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':2342}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 2342}
+INFO:root:
+	Save in db:::  --> id Part 91 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:08 
+		 ok: False 
+		 Time 2342 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48538))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2604, 'rework':0}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2604, 'rework': 0}
+INFO:root:
+	Save in db:::  --> id Part 92 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:09 
+		 ok: True 
+		 Time 2604 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48548))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1847, 'rework':1, 'rework_status':1, 'reworking_time':2988}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1847, 'rework': 1, 'rework_status': 1, 'reworking_time': 2988}
+INFO:root:
+	Save in db:::  --> id Part 93 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:09 
+		 ok: True 
+		 Time 1847 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 93> 
+		 ok: True 
+		 Time 2988 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48554))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':640, 'rework':1, 'rework_status':0, 'reworking_time':1933}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 640, 'rework': 1, 'rework_status': 0, 'reworking_time': 1933}
+INFO:root:
+	Save in db:::  --> id Part 94 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:10 
+		 ok: True 
+		 Time 640 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 94> 
+		 ok: False 
+		 Time 1933 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48572))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':1526, 'rework':1, 'rework_status':0, 'reworking_time':290}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 1526, 'rework': 1, 'rework_status': 0, 'reworking_time': 290}
+INFO:root:
+	Save in db:::  --> id Part 95 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:11 
+		 ok: True 
+		 Time 1526 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 95> 
+		 ok: False 
+		 Time 290 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48574))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':519}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 519}
+INFO:root:
+	Save in db:::  --> id Part 96 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:12 
+		 ok: False 
+		 Time 519 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48584))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1225}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1225}
+INFO:root:
+	Save in db:::  --> id Part 97 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:12 
+		 ok: False 
+		 Time 1225 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48586))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':0, 'working_time':1908}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 0, 'working_time': 1908}
+INFO:root:
+	Save in db:::  --> id Part 98 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:13 
+		 ok: False 
+		 Time 1908 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	Socket loop::  --> ('connection from', ('127.0.0.1', 48596))
+INFO:root:
+	Socket loop::  --> (<class 'bytes'>, ':: Whole data: ', b"{'status':1, 'working_time':2794, 'rework':1, 'rework_status':1, 'reworking_time':1237}")
+INFO:root:
+	create_object_Part:: json::  --> {'status': 1, 'working_time': 2794, 'rework': 1, 'rework_status': 1, 'reworking_time': 1237}
+INFO:root:
+	Save in db:::  --> id Part 99 <id Machine: 0> 
+		 timestamp: 2021-12-01 00:14:13 
+		 ok: True 
+		 Time 2794 ms
+INFO:root:
+	Save in db:::  --> <id Rework Part: 99> 
+		 ok: True 
+		 Time 1237 ms
+INFO:root:
+	Socket loop::  --> waiting for a connection
+INFO:root:
+	 API stoped at 2021/12/30 20:53:45

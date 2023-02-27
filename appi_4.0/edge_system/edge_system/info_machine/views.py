@@ -26,8 +26,7 @@ def get_remote_informatio():
     try:
         response = requests.post(url_lines)
     except:
-        flash('Error: not server connection','danger')
-        return data 
+         return data 
     #print("\t JSON data: \n", response.json())
     data_lines = response.json()
     if data_lines: # por ahora no hay una opción cuando regrese vació #'' in response.json():

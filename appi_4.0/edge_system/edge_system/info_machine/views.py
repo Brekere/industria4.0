@@ -41,7 +41,7 @@ def get_remote_informatio():
     data['suppliers'] = []
     data['suppliers'].append(('1', 'ASBajio'))
     ### getting 
-    return data 
+    return data  
 
 def get_id_remote_machine(nickname_machine): # no esta como unico en la base de datos pero lo manejaremos por ahora así, hasta que regrese el id el endpoint de guardado
     url_machine = remote_server + 'Maquinas/maquina/cargar'

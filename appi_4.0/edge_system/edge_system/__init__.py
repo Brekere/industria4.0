@@ -3,6 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, current_user, logout_user
 
 remote_server = "http://34.121.182.74/asbajio/"
+
 max_num_records_to_upload = 20 
 app = Flask(__name__)
 
